@@ -1,3 +1,7 @@
+.scrollableContainer-15eg7h
+{
+	background-color: rgb(var(--colorr), 0.7);
+}
 
 .position
 {   
@@ -10,7 +14,7 @@
 
 }
 .theme-dark .container-2cd8Mz {
-    /* background-color: #36393f; */
+     background-color: transparent; 
 }
 .container-2cd8Mz
 {
