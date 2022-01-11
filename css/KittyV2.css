@@ -5,12 +5,12 @@
 
 .position
 {   
-   background-color: rgb(var(--colorr), 0.8);
+   background-color: transparent;
 	}
 	
 .appMount-2yBXZl
 {
-   background-color: rgb(var(--colorr), 0.8);
+   background-color: transparent;
 
 }
 .theme-dark .container-2cd8Mz {
@@ -18,18 +18,19 @@
 }
 .container-2cd8Mz
 {
-    background-color: rgb(var(--colorr), 0.8);
+    background-color: transparent;
 } 
 
 .listItems-1uJgMC
 {
-    background-color: rgb(var(--colorr), 0.8);
+    background-color: rtransparent;
 }
 
 
 .container-3XJ8ns{
-	background-color: rgb(var(--colorr), 0.8);
+	background-color: transparent;
 }
+
 
 
 .upsellContent-3fiGMr {
