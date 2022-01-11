@@ -1,25 +1,16 @@
-.container-ZMc96U.themed-Hp1KC_
+.position
+{   
+   background-color: rgb(var(--colorr), 0.8);
+	}
+	
+.appMount-2yBXZl
 {
-	 background-color: rgb(var(--colorr), 0.9);
-}
-.peopleColumn-1wMU14
-{
-	 background-color: rgb(var(--colorr), 0.9);
-}
-.scroller-hE2gWq
-{
-	 background-color: rgb(var(--colorr), 0.9);
-}
-.scrollableContainer-15eg7h
-{
-	background-color: rgb(var(--colorr), 0.8);
-}
+   background-color: rgb(var(--colorr), 0.8);
 
-.scrollableContainer-15eg7h webkit-QgSAqd
-{
-    background-color: rgb(var(--colorr), 0.8);
 }
-
+.theme-dark .container-2cd8Mz {
+     background-color: none; 
+}
 .container-2cd8Mz
 {
     background-color: rgb(var(--colorr), 0.8);
