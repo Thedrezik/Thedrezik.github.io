@@ -15,8 +15,7 @@
 }
 
 .layerContainer-2v_Sit{
-	background: rgb(150, 150, 150);
-	background-color: transparent;
+	z-index: 1;
 }
 .theme-dark .tooltipPrimary-3qLMbS, .theme-light .tooltipPrimary-3qLMbS{
 	
