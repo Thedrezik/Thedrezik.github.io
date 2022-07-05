@@ -14,8 +14,9 @@
      --colorr : 255,117,255;
 }
 
-.layerContainer-2v_Sit{
-	z-index: 1;
+.layerContainer-2v_Sit {
+	//z-index: 1;
+	background-color: transparent;
 }
 .theme-dark .tooltipPrimary-3qLMbS, .theme-light .tooltipPrimary-3qLMbS{
 	
