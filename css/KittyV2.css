@@ -9,13 +9,8 @@
 .theme-dark .addGamePopout-3yePJc {
     background-color: rgb(var(--colorr), 0.7);
 }
-.theme-dark {
-
-     --colorr : 255,117,255;
-}
 
 .layerContainer-2v_Sit {
-	z-index: 1;
 	background-color: transparent;
 	background: transparent;
 }
